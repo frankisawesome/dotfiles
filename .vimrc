@@ -22,8 +22,8 @@ set cursorline
 " Highlight cursor line underneath the cursor vertically.
 " set cursorcolumn
 
-" Set tab width to 4 columns.
-set tabstop=4
+" Set tab width to 2 columns.
+set tabstop=2
 
 call plug#begin()
 Plug 'rakr/vim-one'   " tell Vim to load the theme/plugin
